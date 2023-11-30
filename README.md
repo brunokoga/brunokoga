@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+
+
 <!--
 **brunokoga/brunokoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- LinkedIn: https://www.linkedin.com/in/bruno-koga/
+- Personal Page: https://www.brunokoga.com
 
 Here are some ideas to get you started:
 
